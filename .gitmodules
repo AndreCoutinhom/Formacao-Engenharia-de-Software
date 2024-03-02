@@ -7,3 +7,6 @@
 [submodule "devops_study"]
 	path = devops_study
 	url = https://github.com/AndreCoutinhom/devops_and_monitoring_study
+[submodule "microservices_study"]
+	path = microservices_study
+	url = https://github.com/AndreCoutinhom/microservices_study
