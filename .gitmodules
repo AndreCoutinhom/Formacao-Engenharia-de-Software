@@ -4,3 +4,6 @@
 [submodule "software_design_study"]
 	path = software_design_study
 	url = https://github.com/AndreCoutinhom/software_design_and_architecture
+[submodule "devops_study"]
+	path = devops_study
+	url = https://github.com/AndreCoutinhom/devops_and_monitoring_study
