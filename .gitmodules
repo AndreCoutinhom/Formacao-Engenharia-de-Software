@@ -10,3 +10,6 @@
 [submodule "microservices_study"]
 	path = microservices_study
 	url = https://github.com/AndreCoutinhom/microservices_study
+[submodule "agility_teams_study"]
+	path = agility_study
+	url = https://github.com/AndreCoutinhom/agility_teams_study
