@@ -2,7 +2,7 @@
 
  # Formação: Engenharia de software
 
-### Aprenda sobre os principais tópicos relacionados com o tema engenharia de software
+## Aprenda sobre os principais tópicos relacionados com o tema engenharia de software
 
 Engenharia de software é uma das áreas da computação cujo foco está relacionado com análise, desenvolvimento e manutenção de softwares, bem como gestão de projetos e times.
 
