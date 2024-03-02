@@ -1,0 +1,6 @@
+[submodule "api_rest_study"]
+	path = api_rest_study
+	url = https://github.com/AndreCoutinhom/api_rest_study
+[submodule "software_design_study"]
+	path = software_design_study
+	url = https://github.com/AndreCoutinhom/software_design_and_architecture
