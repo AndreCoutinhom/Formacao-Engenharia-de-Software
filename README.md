@@ -1,3 +1,5 @@
+> *Todos os repositórios que criei com o intuito de registrar anotações, considerações e scripts desenvolvidos em cada etapa da formação.*
+
 ![image](https://github.com/AndreCoutinhom/Formacao-Engenharia-de-Software/assets/91290799/62958656-9d3a-4355-8280-07457bb88979)
 
  # Formação: Engenharia de software
