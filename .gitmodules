@@ -13,3 +13,6 @@
 [submodule "agility_teams_study"]
 	path = agility_teams_study
 	url = https://github.com/AndreCoutinhom/agility_teams_study.git
+[submodule "quality_tests_study"]
+	path = quality_tests_study
+	url = https://github.com/AndreCoutinhom/quality_tests_study.git
