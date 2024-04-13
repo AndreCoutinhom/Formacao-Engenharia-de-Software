@@ -13,6 +13,6 @@
 [submodule "quality_tests_study"]
 	path = quality_tests_study
 	url = https://github.com/AndreCoutinhom/quality_tests_study.git
-[submodule "devops_study"]
-	path = devops_and_monitoring_study
+[submodule "devops_and_monitoring_study"]
+	path = devops_study
 	url = https://github.com/AndreCoutinhom/devops_and_monitoring_study.git
