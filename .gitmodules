@@ -1,15 +1,15 @@
 [submodule "api_rest_study"]
 	path = api_rest_study
-	url = https://github.com/AndreCoutinhom/api_rest_study
+	url = https://github.com/AndreCoutinhom/api_rest_study.git
 [submodule "software_design_study"]
 	path = software_design_study
-	url = https://github.com/AndreCoutinhom/software_design_and_architecture
+	url = https://github.com/AndreCoutinhom/software_design_and_architecture.git
 [submodule "devops_study"]
 	path = devops_study
-	url = https://github.com/AndreCoutinhom/devops_and_monitoring_study
+	url = https://github.com/AndreCoutinhom/devops_and_monitoring_study.git
 [submodule "microservices_study"]
 	path = microservices_study
-	url = https://github.com/AndreCoutinhom/microservices_study
+	url = https://github.com/AndreCoutinhom/microservices_study.git
 [submodule "agility_teams_study"]
 	path = agility_teams_study
 	url = https://github.com/AndreCoutinhom/agility_teams_study.git
